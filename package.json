@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://anuupadhyay.github.io/my-app",
+  "homepage": "https://github.com/sbitbits/pokemon-collection.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
